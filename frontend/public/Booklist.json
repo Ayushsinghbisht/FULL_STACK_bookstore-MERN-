@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "price":0,
+        "title":"The Hobbit",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/rendering-cartoon-fantasy-scene-illustration_23-2151150813.jpg?t=st=1720457710~exp=1720461310~hmac=bde9e591de15a2f8ba4a6bf3965faec16a178a84a221bcb2b9e2d62fee154fff&w=360"
+    },
+    {
+        "id": 2,
+        "name": "Space Book",
+        "title":"The Milky Way",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/childs-story-book_1051-545.jpg?t=st=1720457801~exp=1720461401~hmac=ac8debdc05baecf8f452ee718c1f77d82baf038088398ceccf373f6a5f19c7e3&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Comedy Book",
+        "title":"The Color of Magic",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/smiling-ball-reading-book-with-glasses_776674-640375.jpg?w=1060"
+    },
+    {
+        "id": 4,
+        "name": "Horror Book",
+        "title":"Twilight Whispers in the Dark.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-psd/front-view-book-skull-with-black-background_23-2148297597.jpg?w=1060"
+    },
+    {
+        "id": 1,
+        "name": "Story Book",
+        "price":0,
+        "title":"The Hobbit",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/rendering-cartoon-fantasy-scene-illustration_23-2151150813.jpg?t=st=1720457710~exp=1720461310~hmac=bde9e591de15a2f8ba4a6bf3965faec16a178a84a221bcb2b9e2d62fee154fff&w=360"
+    },
+    {
+        "id": 2,
+        "name": "Space Book",
+        "title":"The Milky Way",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/childs-story-book_1051-545.jpg?t=st=1720457801~exp=1720461401~hmac=ac8debdc05baecf8f452ee718c1f77d82baf038088398ceccf373f6a5f19c7e3&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Comedy Book",
+        "title":"The Color of Magic",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/smiling-ball-reading-book-with-glasses_776674-640375.jpg?w=1060"
+    },
+    {
+        "id": 4,
+        "name": "Horror Book",
+        "title":"Twilight Whispers in the Dark.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-psd/front-view-book-skull-with-black-background_23-2148297597.jpg?w=1060"
+    }
+    
+]
